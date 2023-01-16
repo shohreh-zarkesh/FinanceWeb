@@ -1,0 +1,6 @@
+/.npmrc
+/.parcel-cache
+/dist
+/fontawesome-free-6.2.1-web
+/heap-20230114-210448-main.heapsnapshot
+/node_modules
